@@ -1,15 +1,15 @@
-## [Yadi Liu]
+## [Yadi LIU]
 I am a postgraduate student of the School of Mathematical Sciences, Capital Normal University.
 
 ### Personal information:
 
-**Name:** 朱子 (Ziyang ZHU)
+**Name:** 刘亚迪 (Yadi LIU)
 
-**Research Interests:** Number Theory
+**Research Interests:** arithmetic geometry,complex geometry
 
-**Supervisor:** Prof. Shun TANG; Prof. Fei XU
+**Supervisor:** 
 
-**E-mail:** zhuziyang@cnu.edu.cn
+**E-mail:** 1053982154@qq.com
 
 ### [Teaching](https://ziyangzhu.github.io/Teaching/)
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
