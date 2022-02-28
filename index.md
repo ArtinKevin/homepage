@@ -1,4 +1,4 @@
-## [Ziyang ZHU](https://ziyangzhu.github.io/Home/)
+## [Yadi Liu]
 I am a postgraduate student of the School of Mathematical Sciences, Capital Normal University.
 
 ### Personal information:
