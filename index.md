@@ -16,4 +16,5 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 
 
-![v2-6fe879b650da6caa23c3078ece271f13_r](https://user-images.githubusercontent.com/63255508/141781106-2080dbc5-9491-4d99-a611-91a57aaafffc.jpg)
+![v2-6fe879b650da6caa23c3078ece271f13_r](https://dzackgarza.com/assets/images/covers/algebraic_geometry.png)
+
