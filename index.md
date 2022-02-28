@@ -14,7 +14,5 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 ### [Lecture Notes](https://ziyangzhu.github.io/Notes/)
 ### [Useful Links](https://ziyangzhu.github.io/Links/)
 
-
-
 ![1](https://dzackgarza.com/assets/images/covers/algebraic_geometry.png)
 
