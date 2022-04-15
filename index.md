@@ -14,5 +14,5 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 ### [Lecture Notes](https://artinkevin.github.io/notes/)
 ### [Useful Links](https://artinkevin.github.io/Links/)
 
-![1](https://github.com/ArtinKevin/homepage/blob/main/blow%20up.png)
+![image](https://github.com/ArtinKevin/homepage/blob/main/blow%20up.png)
 
