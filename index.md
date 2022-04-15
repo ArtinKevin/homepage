@@ -5,9 +5,8 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Name:** 刘亚迪 (Yadi LIU)
 
-**Research Interests:** Arithmetic Geometry and Complex Geometry.In particular，
-- Rigid Geometry
-- Nevanlinna Theory
+**Research Interests:** Algebraic Geometry and Arithmetic Geometry
+
 
 
 **Supervisor:** 
