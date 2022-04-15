@@ -6,11 +6,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 **Name:** 刘亚迪 (Yadi LIU)
 
 **Research Interests:** Algebraic Geometry and Arithmetic Geometry
-
-
-
 **Supervisor:** 
-
 **E-mail:** 1053982154@qq.com
 
 ### [Lecture Notes](https://artinkevin.github.io/notes/)
