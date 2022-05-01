@@ -15,7 +15,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 ### [Lecture Notes](https://artinkevin.github.io/notes/)
 ### [Useful Links](https://artinkevin.github.io/Links/)
-### [Dairies]()
+### [Dairies](https://artinkevin.github.io/Dairies/)
 
 ![图片](https://raw.githubusercontent.com/ArtinKevin/homepage/main/p-adic.png)
 
