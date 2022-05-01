@@ -5,7 +5,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Name:** 刘亚迪 (Yadi LIU)
 
-**Research Interests:** complex geometry and p-adic geometry
+**Research Interests:** arithmetic geometry
 
 **Supervisor:** 
 
