@@ -8,6 +8,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 **Research Interests:** 
 * Non-Archimedean geometry
 * Complex algebraic geometry
+* Mathematical physics
 
 **Supervisor:** 
 
