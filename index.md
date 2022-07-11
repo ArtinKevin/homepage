@@ -7,10 +7,10 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Research Interests:** 
 * Non-Archimedean geometry
-* Complex algebraic geometry
+* Complex geometry and complex algebraic geometry
 * Mathematical physics
 
-**Supervisor:Yang Jie** 
+**Supervisor:Jie Yang** 
 
 **E-mail:** 1053982154@qq.com
 
