@@ -10,7 +10,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 * Complex algebraic geometry
 * Mathematical physics
 
-**Supervisor:** 
+**Supervisor:Yang Jie** 
 
 **E-mail:** 1053982154@qq.com
 
