@@ -9,7 +9,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 * Complex geometry and complex algebraic geometry
 * Mathematical physics
 
-**Supervisor:Jie Yang** 
+**Supervisor:Jie YANG** 
 
 **E-mail:** 1053982154@qq.com
 
