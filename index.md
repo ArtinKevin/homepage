@@ -11,7 +11,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Supervisor:** Jie YANG
 
-**E-mail:** 1053982154@qq.com
+**E-mail:** 2220502124@cun.edu.cn
 
 ### [Lecture Notes](https://artinkevin.github.io/notes/)
 ### [Tutoring]
