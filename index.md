@@ -14,6 +14,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 **E-mail:** 2220502124@cun.edu.cn
 
 ### [Lecture Notes](https://artinkevin.github.io/notes/)
+### [Seminar]
 ### [Tutoring]
 ### [Preprints]
 ### [Publications]
