@@ -11,7 +11,7 @@ My current research interests include
 * Algebraic number theory
 * Commutative algebra
 
-**Supervisor:** Jie YANG
+**Supervisor:** Derong Qiu
 
 **E-mail:** 2220502124@cun.edu.cn
 
