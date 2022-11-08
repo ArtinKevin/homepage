@@ -7,8 +7,9 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Research Interests:** 
 My current research interests include 
-* non-Archimedean geometry, especially rigid analytic geometry 
-* Algebraic number theory and related arithmetic geometry
+* Rigid analytic geometry 
+* Algebraic number theory
+* Commutative algebra
 
 **Supervisor:** Jie YANG
 
