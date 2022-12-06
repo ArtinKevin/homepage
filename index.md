@@ -7,7 +7,7 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Research Interests:** 
 My current research interests include 
-* Arithmetic geometry
+* Arithmetic geometry and Number theory
 * Algebraic geometry
 * Commutative algebra
 
