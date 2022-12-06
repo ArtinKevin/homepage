@@ -7,8 +7,8 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Research Interests:** 
 My current research interests include 
-* Rigid analytic geometry 
-* Algebraic number theory
+* Arithmetic geometry
+* Algebraic geometry
 * Commutative algebra
 
 **Supervisor:** Derong Qiu
