@@ -17,7 +17,6 @@ My current research interests include
 
 ### [Lecture Notes](https://artinkevin.github.io/notes/)
 ### [Miscellaneous]
-### [Seminar]
 ### [Tutoring]
 ### [Preprints]
 ### [Publications]
