@@ -5,13 +5,9 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 
 **Name:** 刘亚迪 (Yadi LIU)
 
-**Research Interests:** 
-My current research interests include 
-* Arithmetic geometry and Number theory
-* Algebraic geometry
-* Commutative algebra
+**Research Interests:** My current research focuses on number theory and arithmetic geometry, especially some problems in automorphic representation. I am also interested in the Langlands program and p-adic Hodge theory.
 
-**Supervisor:** Derong Qiu
+**Supervisor:** Li Cai
 
 **E-mail:** 2220502124@cun.edu.cn
 
