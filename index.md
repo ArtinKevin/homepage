@@ -6,7 +6,6 @@ I am a postgraduate student of the School of Mathematical Sciences, Capital Norm
 **Name:** 刘亚迪 (Yadi LIU)
 
 **Research Interests:** My research interest is [automorphic representation theory](https://en.wikipedia.org/wiki/Automorphic_form#Automorphic_representations) and [Langlands program](https://artinkevin.github.io/notes/](https://en.wikipedia.org/wiki/Langlands_program)).
-Publications and Preprints
 
 **Supervisor:** Li Cai
 
